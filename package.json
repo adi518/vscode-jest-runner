@@ -53,8 +53,16 @@
                 "title": "Run Jest"
             },
             {
+                "command": "extension.runJest",
+                "title": "Run Jest (update snapshots)"
+            },
+            {
                 "command": "extension.runJestFile",
                 "title": "Run Jest File"
+            },
+            {
+                "command": "extension.runJestFile",
+                "title": "Run Jest File (update snapshots)"
             },
             {
                 "command": "extension.debugJest",
